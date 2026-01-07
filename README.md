@@ -175,7 +175,7 @@ Automatización con crons
 
 Arquitecturas escalables
 
-📎 Enlace a la API: [link] https://pf-back-zimt.onrender.com/api
+📎 Enlace a la API:  https://pf-back-zimt.onrender.com/api
 📎 LinkedIn: [link] www.linkedin.com/in/francisco-sequeira-
 🌐 Demo: [link a la app] https://demo2-five-phi.vercel.app
 
