@@ -141,17 +141,18 @@ Base de datos: Render (PostgreSQL)
 
 ---
 
-## Estructura del BackEnd
+## 📁 Estructura del proyecto (Backend)
 
-backend/
+```text
+fundar-back/
 └── src/
     ├── app.controller.ts
     ├── app.module.ts
     ├── app.service.ts
     ├── main.ts
-    ├── auth/                                #Autenticación
-    ├── categories/                          #Categorías de las obras
-    ├── donations/                           #Gestión de donaciones
+    ├── auth/     #Autenticación
+    ├── categories/
+    ├── donations/
     ├── email/
     ├── enums/
     ├── file-upload/
