@@ -144,36 +144,25 @@ Base de datos: Render (PostgreSQL)
 ## 📁 Estructura del proyecto (Backend)
 
 ```text
-fundar-back/
+backend/
 └── src/
     ├── app.controller.ts
     ├── app.module.ts
     ├── app.service.ts
     ├── main.ts
-    ├── auth/     #Autenticación
-    ├── categories/
-    ├── donations/
-    ├── email/
-    ├── enums/
-    ├── file-upload/
-    ├── middlewares/
-    ├── notifications/
-    ├── payments/
-    ├── projects/
-    └── users/
+    ├── auth/                  # Autenticación
+    ├── categories/            # Categorías de las obras
+    ├── donations/             # Gestión de donaciones
+    ├── email/                 # Notificaciones por email
+    ├── enums/                 # Roles
+    ├── file-upload/           # Subida de imágenes
+    ├── middlewares/           # Middlewares personalizados
+    ├── notifications/         # Gestión de notificaciones
+    ├── payments/              # Gestión de pagos
+    ├── projects/              # Gestión de obras a las que se puede donar
+    └── users/                 # Gestión de usuarios
 
-    auth: Autenticación (incluye JWT y Google OAuth)
-users: Gestión de usuarios y roles (admin/user)
-projects: Obras a las que se pueden donar
-categories: Categorías de las obras
-donations: Gestión de donaciones
-payments: Integración con Stripe para pagos
-file-upload: Subida de imágenes (Cloudinary)
-email: Notificaciones por email (SendGrid)
-notifications: Gestión de notificaciones internas
-middlewares: Middlewares personalizados
-enums: Enumeraciones globales (roles, etc.)
-
+   
 ## 👥 Roles del sistema
 
 - Usuario: Donar, editar perfil, ver obras y donaciones
