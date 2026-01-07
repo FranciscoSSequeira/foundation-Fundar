@@ -212,8 +212,7 @@ Base de datos: Render (PostgreSQL)
 
 ## 🔑 Usuarios de prueba
 
-- Ingreso como Usuario => - email: pruebauno@gmail.com / password: Pass!123
-                           - SingIn con cuenta de Google en boton SignIn with Gmail
+- Ingreso como Usuario => - email: pruebauno@gmail.com / password: Pass!123 / SingIn con cuenta de Google en boton SignIn with Gmail
 - Ingreso como Admin => - email: admindeprueba@admin.com / password: Pass!123
 
 ---
