@@ -167,19 +167,19 @@ Base de datos: Render (PostgreSQL)
 <td width="50%">
 
 ### Home
-![Home](<img width="1664" height="4042" alt="HomeFundar" src="https://github.com/user-attachments/assets/650b5efb-31be-49df-97fc-862fef5c0293" />)
+<img width="1664" height="4042" alt="HomeFundar" src="https://github.com/user-attachments/assets/650b5efb-31be-49df-97fc-862fef5c0293" />
 
 </td>
 <td width="50%">
 
 ### Register
-![Register](<img width="2560" height="2128" alt="demo2-five-phi vercel app_register(Nest Hub Max)" src="https://github.com/user-attachments/assets/9978dd9c-c644-4243-b03d-ad095fc951f3" />)
+<img width="2560" height="2128" alt="demo2-five-phi vercel app_register(Nest Hub Max)" src="https://github.com/user-attachments/assets/9978dd9c-c644-4243-b03d-ad095fc951f3" />
 
 </td>
 <td width="50%">
 
 ### Login
-[Login]<img width="2560" height="2128" alt="demo2-five-phi vercel app_login(Nest Hub Max)" src="https://github.com/user-attachments/assets/098a3c08-28ff-4689-b289-e39038e424d5" />
+<img width="2560" height="2128" alt="demo2-five-phi vercel app_login(Nest Hub Max)" src="https://github.com/user-attachments/assets/098a3c08-28ff-4689-b289-e39038e424d5" />
 
 </td>
 </tr>
