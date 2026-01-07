@@ -144,23 +144,25 @@ Base de datos: Render (PostgreSQL)
 ## 📁 Estructura del proyecto (Backend)
 
 ```text
-backend/
-├── app.controller.ts          # controlador de la app
-├── app.module.ts              # modulo de la app
-├── app.service.ts             # service de la app
-├── main.ts                    # archivo main de la app
-└── src/
-    ├── auth/                  # Autenticación
-    ├── categories/            # Categorías de las obras
-    ├── donations/             # Gestión de donaciones
-    ├── email/                 # Notificaciones por email
-    ├── enums/                 # Roles
-    ├── file-upload/           # Subida de imágenes
-    ├── middlewares/           # Middlewares personalizados
-    ├── notifications/         # Gestión de notificaciones
-    ├── payments/              # Gestión de pagos
-    ├── projects/              # Gestión de obras a las que se puede donar
-    └── users/                 # Gestión de usuarios
+fundar/
+├── frontend/
+└── backend/
+      ├── app.controller.ts          # controlador de la app
+      ├── app.module.ts              # modulo de la app
+      ├── app.service.ts             # service de la app
+      ├── main.ts                    # archivo main de la app
+      └── src/
+            ├── auth/                  # Autenticación
+            ├── categories/            # Categorías de las obras
+            ├── donations/             # Gestión de donaciones
+            ├── email/                 # Notificaciones por email
+            ├── enums/                 # Roles
+            ├── file-upload/           # Subida de imágenes
+            ├── middlewares/           # Middlewares personalizados
+            ├── notifications/         # Gestión de notificaciones
+            ├── payments/              # Gestión de pagos
+            ├── projects/              # Gestión de obras a las que se puede donar
+            └── users/                 # Gestión de usuarios
 ```
 
 ---
