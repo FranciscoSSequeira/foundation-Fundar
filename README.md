@@ -160,27 +160,29 @@ Base de datos: Render (PostgreSQL)
 
 ---
 
-## 📸 Screenshots finales
-
 ## 🖼️ Vistas de la aplicación
 
 <table>
 
-  <!-- Home / Register / Login -->
+  <!-- Home / Register -->
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
 
 ### 🏠 Home
 <img alt="Home Fundar" src="https://github.com/user-attachments/assets/650b5efb-31be-49df-97fc-862fef5c0293" />
 
 </td>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
 
 ### 📝 Register
 <img alt="Register Fundar" src="https://github.com/user-attachments/assets/9978dd9c-c644-4243-b03d-ad095fc951f3" />
 
 </td>
-    <td width="33%" align="center" valign="top">
+  </tr>
+
+  <!-- Login -->
+  <tr>
+    <td colspan="2" align="center" valign="top">
 
 ### 🔐 Login
 <img alt="Login Fundar" src="https://github.com/user-attachments/assets/098a3c08-28ff-4689-b289-e39038e424d5" />
@@ -188,7 +190,7 @@ Base de datos: Render (PostgreSQL)
 </td>
   </tr>
 
-  <!-- Dashboard User / Dashboard Admin -->
+  <!-- Dashboards -->
   <tr>
     <td width="50%" align="center" valign="top">
 
