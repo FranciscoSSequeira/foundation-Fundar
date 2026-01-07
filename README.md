@@ -1,4 +1,4 @@
-#Fundar – Plataforma de Donaciones Solidarias
+# Fundar – Plataforma de Donaciones Solidarias
 
 Fundar es una aplicación Full Stack Web desarrollada como proyecto final del bootcamp SoyHenry, cuyo objetivo es conectar personas que desean colaborar económicamente con obras de beneficencia o causas sociales.
 
