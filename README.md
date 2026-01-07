@@ -3,9 +3,9 @@
 Fundar es una aplicación Full Stack Web desarrollada como proyecto final del bootcamp SoyHenry, cuyo objetivo es conectar personas que desean colaborar económicamente con obras de beneficencia o causas sociales.
 
 La aplicación funciona como una plataforma de donaciones, permitiendo a los usuarios apoyar proyectos sociales (por ejemplo, la construcción de una escuela) de forma simple, segura y centralizada.
-
-#✨ Funcionalidades principales:
-#👤 Usuarios
+---
+##✨ Funcionalidades principales:
+###👤 Usuarios
 
 ✅ Registro y login de usuarios
 
