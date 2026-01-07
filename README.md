@@ -145,11 +145,11 @@ Base de datos: Render (PostgreSQL)
 
 ```text
 backend/
+├── app.controller.ts
+├── app.module.ts
+├── app.service.ts
+├── main.ts
 └── src/
-    ├── app.controller.ts
-    ├── app.module.ts
-    ├── app.service.ts
-    ├── main.ts
     ├── auth/                  # Autenticación
     ├── categories/            # Categorías de las obras
     ├── donations/             # Gestión de donaciones
