@@ -131,9 +131,9 @@ Backend: Render
 Base de datos: Render (PostgreSQL)
 
 ## 👥 Roles del sistema
-Rol	Permisos
-Usuario	Donar, editar perfil, ver obras y donaciones
-Admin	Gestión completa de usuarios, obras y administradores
+
+- Usuario: Donar, editar perfil, ver obras y donaciones
+- Admin:	Gestión completa de usuarios, obras y administradores
 
 ## 🚀 Posibles mejoras futuras
 
