@@ -145,10 +145,10 @@ Base de datos: Render (PostgreSQL)
 
 ```text
 backend/
-├── app.controller.ts
-├── app.module.ts
-├── app.service.ts
-├── main.ts
+├── app.controller.ts          # controlador de la app
+├── app.module.ts              # modulo de la app
+├── app.service.ts             # service de la app
+├── main.ts                    # archivo main de la app
 └── src/
     ├── auth/                  # Autenticación
     ├── categories/            # Categorías de las obras
@@ -162,7 +162,6 @@ backend/
     ├── projects/              # Gestión de obras a las que se puede donar
     └── users/                 # Gestión de usuarios
 
-   
 ## 👥 Roles del sistema
 
 - Usuario: Donar, editar perfil, ver obras y donaciones
