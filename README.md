@@ -165,25 +165,22 @@ Base de datos: Render (PostgreSQL)
 ## 🖼️ Vistas de la aplicación
 
 <table>
-  <!-- Home + Register -->
+
+  <!-- Home / Register / Login -->
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
 
 ### 🏠 Home
 <img alt="Home Fundar" src="https://github.com/user-attachments/assets/650b5efb-31be-49df-97fc-862fef5c0293" />
 
 </td>
-<td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
 
 ### 📝 Register
 <img alt="Register Fundar" src="https://github.com/user-attachments/assets/9978dd9c-c644-4243-b03d-ad095fc951f3" />
 
 </td>
-  </tr>
-
-  <!-- Login -->
-  <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
 
 ### 🔐 Login
 <img alt="Login Fundar" src="https://github.com/user-attachments/assets/098a3c08-28ff-4689-b289-e39038e424d5" />
@@ -191,7 +188,7 @@ Base de datos: Render (PostgreSQL)
 </td>
   </tr>
 
-  <!-- Dashboard User -->
+  <!-- Dashboard User / Dashboard Admin -->
   <tr>
     <td width="50%" align="center" valign="top">
 
@@ -199,20 +196,14 @@ Base de datos: Render (PostgreSQL)
 <img alt="Dashboard Usuario" src="https://github.com/user-attachments/assets/67dfa8dd-dc96-41ec-a355-1bfb0b22dc9f" />
 
 </td>
-<td width="50%" align="center" valign="top">
-
-</td>
-  </tr>
-
-  <!-- Dashboard Admin -->
-  <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
 
 ### 🛠️ Dashboard de Administrador
 <img alt="Dashboard Admin" src="https://github.com/user-attachments/assets/6cb5c24f-7edf-431a-9831-0cec670039bf" />
 
 </td>
   </tr>
+
 </table>
 
 ---
