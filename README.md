@@ -8,6 +8,8 @@ En el proyecto trabajamos un desarrollador Frontend, y un desarrollador Backend.
 
 - 🔗 Enlace a la API: https://pf-back-zimt.onrender.com/api
 - 🌐 Demo: https://demo2-five-phi.vercel.app
+
+### Aclaración: al ser una aplicación de prueba, las respuestas del servidor pueden demorar hasta 5 minutos en algunos casos.
   
 ---
 
@@ -231,6 +233,11 @@ fundar/
 - Ingreso como Usuario => - email: pruebauno@gmail.com / password: Pass!123 / SingIn con cuenta de Google en boton SignIn with Gmail
 - Ingreso como Admin => - email: admindeprueba@admin.com / password: Pass!123
 
+- 🔗 Enlace a la API: https://pf-back-zimt.onrender.com/api
+- 🌐 Demo: https://demo2-five-phi.vercel.app
+
+  
+### Aclaración: al ser una aplicación de prueba, las respuestas del servidor pueden demorar hasta 5 minutos en algunos casos.
 ---
 
 ## 🚀 Posibles mejoras futuras
