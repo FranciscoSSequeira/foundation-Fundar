@@ -162,9 +162,26 @@ Base de datos: Render (PostgreSQL)
 
 ## 📸 Screenshots
 
-(Próximamente)
+## Home
+<img width="1664" height="4042" alt="HomeFundar" src="https://github.com/user-attachments/assets/650b5efb-31be-49df-97fc-862fef5c0293" />
+## 🚀 Características principales
 
-Se agregarán imágenes del dashboard de usuario, admin, chatbot y flujo de donación.
+<table>
+<tr>
+<td width="50%">
+
+### 📅 Gestión de Turnos
+![Turnos](./screenshots/appointments.png)
+
+</td>
+<td width="50%">
+
+### 🧑 Perfil de Usuario
+![Perfil](./screenshots/profile.png)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -193,8 +210,6 @@ Integración de pagos
 Automatización con crons
 
 Arquitecturas escalables
-
----
 
 - 💼 LinkedIn: www.linkedin.com/in/francisco-sequeira-
 
